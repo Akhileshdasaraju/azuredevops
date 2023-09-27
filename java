@@ -1,5 +1,7 @@
 class Hello{
 public Static void main(String[] args) {
-System.out.println("hello mf");
+  int a=2;
+  int b=3;
+System.out.println(a+b);
 }
 }
